@@ -16,3 +16,10 @@ Java (Core Java, OOPs)
 ArrayList (for storing student records)
 
 Scanner (for user input)
+▶ How to Run?
+1.Clone the repository:
+git clone https://github.com/SurajSomvanshi1509/StudentManagement.git
+cd StudentManagement
+2. Compile and run the program:
+javac StudentManagementSystem.java
+java StudentManagementSystem
